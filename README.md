@@ -1,8 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Ktz-ali" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="http://q2.qlogo.cn/headimg_dl?dst_uin=1728031575&spec=100" alt="github logo" />
-    </a>
-</p>
+    <a href="https://github.com/Ktz-ali" target="_blank" rel="noopener noreferrer"></a></p>
 
 <p align="center"><b>遥辉APK报毒免杀处理分发系统公益版</b> 一款用于对Android应用进行多重打包、签名随机化、代码混淆及加固处理的自动化系统。系统通过反编译与重编译APK技术，通过修改包名、签名、资源文件、Dex代码等元素，生成具有新特征的新APK，有效降低同一应用多次分发被识别为“病毒”或“恶意软件”的概率，从而减少被安全软件误报的风险。
 
