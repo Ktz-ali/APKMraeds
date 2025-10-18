@@ -63,14 +63,14 @@ chmod +x xali.sh
 
 ## ★ 演示截图
 
-![首页](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/首页.png)
-![apk](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/apk.png)
-![网站](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/网站.png)
-![时间](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/时间.png)
-![规则](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/规则.png)
-![OSS](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/oss.png)
-![登录页](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/登录页.png)
-![下载页](https://github.com/Ktz-ali/GithubToolKit/blob/main/演示图/下载页.png)
+![首页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/首页.png)
+![apk](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/apk.png)
+![网站](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/网站.png)
+![时间](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/时间.png)
+![规则](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/规则.png)
+![OSS](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/oss.png)
+![登录页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/登录页.png)
+![下载页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/下载页.png)
 
 ## ★ 下载地址
 
