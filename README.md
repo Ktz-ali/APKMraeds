@@ -63,14 +63,14 @@ chmod +x xali.sh
 
 ## ★ 演示截图
 
-![首页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/首页.png)
-![apk](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/apk.png)
-![网站](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/网站.png)
-![时间](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/时间.png)
-![规则](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/规则.png)
-![OSS](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/oss.png)
-![登录页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/登录页.png)
-![下载页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/下载页.png)
+![首页](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/首页.png)
+![apk](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/apk.png)
+![网站](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/网站.png)
+![时间](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/时间.png)
+![规则](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/规则.png)
+![OSS](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/oss.png)
+![登录页](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/登录页.png)
+![下载页](https://github.com/Ktz-ali/APKMraeds/tree/main/演示图/下载页.png)
 
 ## ★ 下载地址
 
@@ -79,7 +79,7 @@ chmod +x xali.sh
 - 下载2：https://share.feijipan.com/s/lsXlNKih
 
 ## ★ 付费版本
-如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/blob/main/如有更高需求查看.md)
+如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/tree/main/如有更高需求查看.md)
 
 ## ★ 技术支持
 - 教程编写: 消失的阿力  
