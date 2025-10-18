@@ -39,19 +39,19 @@
 ## ★ 部署教程
 
 1. **上传部署包**  
-   - 通过宝塔面板上传部署包至 `/www/wwwroot` 目录并解压
+- 通过宝塔面板上传部署包至 `/www/wwwroot` 目录并解压
 
 2. **创建站点**
-   - 设置目录列表程序目录为 `/www/wwwroot/AliPack`
+- 设置目录列表程序目录为 `/www/wwwroot/AliPack`
 
 3. **数据库**  
-   - 创建数据库：`apkgyb`
-   - 用户名：`apkgyb`
-   - 密码：`apkgyb`
-   - 导入数据库文件：`AliGYB.sql`
+- 创建数据库：`apkgyb`
+- 用户名：`apkgyb`
+- 密码：`apkgyb`
+- 导入数据库文件：`AliGYB.sql`
 
 4. **移动脚本文件**
-   - 将xali.sh移动至宝塔根目录 `/root` 目录下
+- 将xali.sh移动至宝塔根目录 `/root` 目录下
 
 5. **终端执行脚本**
 ```
