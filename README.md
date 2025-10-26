@@ -72,6 +72,12 @@ chmod +x xali.sh
 ![登录页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/登录页.png)
 ![下载页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/下载页.png)
 
+## ★ 使用声明
+
+- 公益版禁止倒卖，让我知道就是永久拉黑处理
+- 仅供学习交流使用，公益版不提供任何技术支持
+- 如用于违法犯罪业务造成的责任由使用者自行承担
+
 ## ★ 下载地址
 
 - 下载1：https://share.feijipan.com/s/duXlORXl
