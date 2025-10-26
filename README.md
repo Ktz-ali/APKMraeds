@@ -60,7 +60,6 @@ chmod +x xali.sh
 
 ```
 
-
 ## ★ 演示截图
 
 ![首页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/首页.png)
