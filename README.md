@@ -79,9 +79,9 @@ chmod +x xali.sh
 
 ## ★ 下载地址
 
-- 下载1：https://share.feijipan.com/s/duXlORXl
+- 下载1：https://取消分享
 
-- 下载2：https://share.feijipan.com/s/lsXlNKih
+- 下载2：https://取消分享
 
 ## ★ 付费版本
 如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/blob/main/如有更高需求请看.md)
