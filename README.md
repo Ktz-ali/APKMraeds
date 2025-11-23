@@ -71,11 +71,15 @@ chmod +x xali.sh
 ![登录页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/登录页.png)
 ![下载页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/下载页.png)
 
+---
+
 ## ★ 使用声明
 
 - 公益版禁止倒卖，让我知道就是永久拉黑处理
 - 仅供学习交流使用，公益版不提供任何技术支持
 - 如用于违法犯罪业务造成的责任由使用者自行承担
+
+---
 
 ## ★ 下载地址
 
@@ -83,15 +87,21 @@ chmod +x xali.sh
 
 - 下载2：https://取消分享
 
+---
+
 ## ★ 付费版本
 
 如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/blob/main/如有更高需求请看.md)
+
+---
 
 ## ★ 其它服务
 
 - ★ 一次一包：88RMB
 - ★ 包月一包：2100RMB
 - ★ 包月AB包：3000RMB
+
+---
 
 ![介绍图](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/介绍图.png)
 
@@ -100,6 +110,8 @@ chmod +x xali.sh
 ![未处理前](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/未处理前.png)
 
 ![已处理后](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/已处理后.png)
+
+---
 
 - 承接安卓APK误报毒处理服务
 
@@ -117,9 +129,9 @@ chmod +x xali.sh
 
 - ★ 提供云储存对接信息或者FTP可实现远程更新处理后的包，人性化预先提供一批备用包，以防紧急情况使用（如一次性给你处理10个包上传到你分发页指定的目录下轮循分发使用，10个包都报毒以后可联系远程更新包列表）
 
-
 - PS：本人不承诺处理后能够一劳永逸，APP下载量多了安装次数多了就会报，所以服务提供包月，如报了联系拿新包或者远程更新包列表，一般情况下是可以稳定一个星期才报，具体拿捏不准，我是根据客户找我的时间算的，不同的客户流量不一样下载量不一样，就说这么多，有需要就联系
 
+---
 
 ## ★ 技术支持
 - 教程编写: 消失的阿力  
