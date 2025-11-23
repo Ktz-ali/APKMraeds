@@ -84,9 +84,14 @@ chmod +x xali.sh
 - 下载2：https://取消分享
 
 ## ★ 付费版本
+
 如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/blob/main/如有更高需求请看.md)
 
 ## ★ 其它服务
+
+- ★ 一次一包：88RMB
+- ★ 包月一包：2100RMB
+- ★ 包月AB包：3000RMB
 
 - 承接安卓APK误报毒处理服务
 
@@ -112,9 +117,9 @@ chmod +x xali.sh
 
 ![介绍图2](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/介绍图2.png)
 
-![未处理](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/未处理.png)
+![未处理前](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/未处理前.png)
 
-![已处理](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/已处理.png)
+![已处理后](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/已处理后.png)
 
 
 ## ★ 技术支持
