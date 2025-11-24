@@ -142,4 +142,4 @@ chmod +x xali.sh
 - 🐟 闲鱼: `阿力_遥辉网络`
 - 🔥 B站: `消失的阿力`
 - ☀️ 互站: `https://www.huzhan.com/ishop53338`
-- 🛫 TG：`@ktzali`
+- 🛫 TG：`https://t.me/boost/APKMraeds`
