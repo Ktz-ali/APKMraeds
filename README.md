@@ -1,4 +1,4 @@
-## 遥辉APK报毒免杀处理分发系统公益版-已取消分享
+## APK报毒免杀处理分发系统公益版-已取消分享
 
 ## ★ 程序介绍
 
@@ -137,9 +137,9 @@ chmod +x xali.sh
 - 教程编写: 消失的阿力  
 - 联系方式:  
 - 📧 QQ: `1728031575`  
-- 📱 WeChat: `Ali01021123`
+- 📱 WeChat: `XywlXyh`
 - ⭐️ Github: `https://github.com/Ktz-ali`
-- 🐟 闲鱼: `阿力_遥辉网络`
+- 🐟 闲鱼: `我不是遥辉`
 - 🔥 B站: `消失的阿力`
 - ☀️ 互站: `https://www.huzhan.com/ishop53338`
 - 🛫 TG：`https://t.me/boost/APKMraeds`
