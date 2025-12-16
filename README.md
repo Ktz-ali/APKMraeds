@@ -136,7 +136,7 @@ chmod +x xali.sh
 ## ★ 技术支持
 - 教程编写: 消失的阿力  
 - 联系方式:  
-- 📧 QQ: `1728031575`  
+- 📧 QQ: `2215687688`  
 - 📱 WeChat: `XywlXyh`
 - ⭐️ Github: `https://github.com/Ktz-ali`
 - 🐟 闲鱼: `我不是遥辉`
