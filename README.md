@@ -91,7 +91,7 @@ chmod +x xali.sh
 
 ## ★ 付费版本
 
-如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/blob/main/如有更高需求请看.md)
+如有更高需求请查看[付费版本](https://github.com/Ktz-ali/APKMraeds/blob/main/apk.md)
 
 ---
 
