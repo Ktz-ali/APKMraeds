@@ -143,3 +143,4 @@ chmod +x xali.sh
 - 🔥 B站: `消失的阿力`
 - ☀️ 互站: `遥辉正版`
 - 🛫 TG：`@ktzxyh`
+- 🛬 群组：https://t.me/boost/XyhSpace
