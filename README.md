@@ -134,13 +134,3 @@ chmod +x xali.sh
 ---
 
 ## ★ 技术支持
-- 教程编写: 消失的阿力  
-- 联系方式:  
-- 📧 QQ: `2215687688`  
-- 📱 WeChat: `XywlXyh`
-- ⭐️ Github: `Ktz-ali`
-- 🐟 闲鱼: `我不是遥辉`
-- 🔥 B站: `消失的阿力`
-- ☀️ 互站: `遥辉正版`
-- 🛫 TG：`@xywlxyh`
-- 🛬 群组：`https://t.me/boost/KtzSpace`
